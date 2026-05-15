@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+output_*.mp4
+output_*.png
+.streamlit/
